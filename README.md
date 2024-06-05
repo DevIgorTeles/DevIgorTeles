@@ -1,6 +1,10 @@
 ## Olá, eu sou o Igor Teles!
 
-Entusiasta de programação e tecnologia, sempre buscando novos desafios e aprendizados para expandir meus conhecimentos!
+- 🚀 Apaixonado por tecnologia e desenvolvimento de software.
+- 💻 Full-stack developer com experiência em várias tecnologias, desde o front-end com React até o back-end com Node.js.
+- 📚 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+- 🌱 Atualmente explorando o mundo do desenvolvimento de aplicativos móveis com Flutter.
+- 🔭 Em busca de desafios interessantes e projetos colaborativos para contribuir.
 
 <div> 
   <a href="https://www.instagram.com/igorteles_?utm_source=ig_web_button_share_sheet&igshid=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
