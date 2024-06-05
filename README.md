@@ -1,4 +1,5 @@
-E aí, eu sou Igor Teles!
+## Olá, eu sou o Igor Teles!
+
 Entusiasta de programação e tecnologia, sempre buscando novos desafios e aprendizados para expandir meus conhecimentos!
 
 <div> 
@@ -6,11 +7,16 @@ Entusiasta de programação e tecnologia, sempre buscando novos desafios e apren
   <a href="mailto:devigorteles@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-teles-81a38018b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="right" alt="Imagem de programação" height="200" width="400" src="https://c.wallhere.com/photos/41/5d/code_Java_programming_life-1920417.jpg!d">
+</div>
+
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevIgorTeles&show_icons=true&count_private=true&hide_border=true&title_color=004FFF&icon_color=004FFF&text_color=c9d1d9&bg_color=0d1117" alt="Igor Teles github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIgorTeles&layout=compact&hide_border=true&title_color=004FFF&text_color=c9d1d9&bg_color=0d1117" /> 
 </div>
