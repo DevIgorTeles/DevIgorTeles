@@ -12,5 +12,5 @@ Entusiasta de programação e tecnologia, sempre buscando novos desafios e apren
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="right" alt="Imagem de programação" height="200" width="400" src="https://c.wallhere.com/photos/41/5d/code_Java_programming_life-1920417.jpg!d">
 </div>
-<img src="https://c.wallhere.com/photos/41/5d/code_Java_programming_life-1920417.jpg!d" alt="Imagem de programação" style="width:100%;">
