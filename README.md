@@ -1,9 +1,9 @@
 ## Olá, eu sou o Igor Teles!
 
 - 🚀 Apaixonado por tecnologia e desenvolvimento de software.
-- 💻 Full-stack developer com experiência em várias tecnologias, desde o front-end com React até o back-end com Node.js.
+- 💻 Full-stack developer com experiência em várias tecnologias, desde o front-end com HTML,CSS e JS até o back-end com Java.
 - 📚 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
-- 🌱 Atualmente explorando o mundo do desenvolvimento de aplicativos móveis com Flutter.
+- 🌱 Atualmente explorando o mundo do desenvolvimento backend com Java.
 - 🔭 Em busca de desafios interessantes e projetos colaborativos para contribuir.
 
 <div> 
